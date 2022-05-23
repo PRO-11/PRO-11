@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pratham Gupta <img src="https://komarev.com/ghpvc/?username=pro-11&label=Profile%20views&color=0e75b6&style=flat"
+ <h1 align="center">Hi 👋, I'm Pratham Gupta <img src="https://komarev.com/ghpvc/?username=pro-11&label=Profile%20views&color=0e75b6&style=flat"
         alt="pro-11" />
-        </h1>]
+        </h1>
         
     <h3  align="center">I am a 3rd Year B.Tech undergradate student.I am
         passionate about Full-Stack Web Development, Programming and Learning Tech Stuffs.</h3>
             
-            <h2> About Me<img src="https://i.ibb.co/tZ7dxcc/output-onlinegiftools.gif" alt="output-onlinegiftools" width="50px" height="30px" border="0"/></h2> 
+            <h2> About Me</h2> 
             <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
     - 🔭 I’m currently working on Mini Project Automation 
@@ -82,14 +82,3 @@
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
                 alt="pgupta_4596" height="30" width="40" /></a>
     </p>
-
-    
-    <a href="https://github.com/anuraghazra/github-readme-stats"></a>
-        <h2>GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>  
-    
-    <a href="https://git.io/streak-stats">
-        <img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=pro-11&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-      </a>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=pro-11&show_icons=true&count_private=true&theme=dracula&include_all_commits"/>
-      </a>
