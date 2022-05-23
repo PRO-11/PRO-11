@@ -1,3 +1,5 @@
+ 
+ 
  <h1 align="center">Hi 👋, I'm Pratham Gupta <img src="https://komarev.com/ghpvc/?username=pro-11&label=Profile%20views&color=0e75b6&style=flat"
         alt="pro-11" />
         </h1>
@@ -8,11 +10,11 @@
             <h2> About Me</h2> 
             <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-    - 🔭 I’m currently working on Mini Project Automation 
+  -🔭 I’m currently working on **Mini Project Automation**
 
-    - 🌱 I’m currently learning Data Strucutre And Machine Learning 
+- 🌱 I’m currently learning **Data Strucutre And Machine Learning**
 
-    - 👯 I’m looking to collaborate on Web Project 
+- 👯 I’m looking to collaborate on **Web Projects**
     
     
                 
