@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pratham Gupta <img src="https://komarev.com/ghpvc/?username=pro-11&label=Profile%20views&color=0e75b6&style=flat"
-        alt="pro-11" /><p align='center'>
-        </p></h1></h1>  
-        <hr>
+        alt="pro-11" />
+        </h1>]
+        
     <h3  align="center">I am a 3rd Year B.Tech undergradate student.I am
         passionate about Full-Stack Web Development, Programming and Learning Tech Stuffs.</h3>
             
-            <h2> About Me<img src="https://i.ibb.co/tZ7dxcc/output-onlinegiftools.gif" alt="output-onlinegiftools" width="50px" height="30px" border="0"></h2> 
+            <h2> About Me<img src="https://i.ibb.co/tZ7dxcc/output-onlinegiftools.gif" alt="output-onlinegiftools" width="50px" height="30px" border="0"/></h2> 
             <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
     - 🔭 I’m currently working on Mini Project Automation 
@@ -13,7 +13,7 @@
     - 🌱 I’m currently learning Data Strucutre And Machine Learning 
 
     - 👯 I’m looking to collaborate on Web Project 
-    <hr>
+    
     <h3 align="left">Skills</h3>
     <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
@@ -57,7 +57,7 @@
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"
                 width="40" height="40" /> </a> </p>
-                <hr>
+                
     <h3 align="left">Connect with me:</h3>
     <p align="left">
         <a href="https://linkedin.com/in/pratham-gupta-58105b238" target="blank"><img align="center"
@@ -83,7 +83,7 @@
                 alt="pgupta_4596" height="30" width="40" /></a>
     </p>
 
-    <hr>
+    
     <a href="https://github.com/anuraghazra/github-readme-stats"></a>
         <h2>GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>  
     
