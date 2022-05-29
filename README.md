@@ -9,7 +9,7 @@
             
   <h2> About Me
           <img src="https://i.ibb.co/tZ7dxcc/output-onlinegiftools.gif" alt="output-onlinegiftools" border="0" width="45px" height="35px"></h2> 
-           
+             <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on **Mini Project Automation**
 
