@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently working on **Major Project Automation**
 
-- 🌱 I’m currently learning **Data Strucutre And Machine Learning**
-
 - 👯 I’m looking to collaborate on **Web Projects**
 
     
